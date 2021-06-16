@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Custom Card</string>
+    <string name="title">Build Your Card</string>
+    <string name="go_set_permissions"><![CDATA[Go to Settings -> Apps and Notifications -> (Your App Name)\" +                         \"-> App Permissions and grant access to storage]]></string>
+    <string name="description_image">card image</string>
+    <string name="process_card">Process Card</string>
+    <string name="checkout_card">Check Out Card</string>
+    <string name="cancel_work">Cancel Work</string>
+    <string name="add_random">Add Random Quote</string>
+    <string name="add_custom_quote">Add Custom Quote</string>
+    <string name="hint_add_text">Enter Text</string>
+    <string name="select_image">Select Image</string>
+</resources>
